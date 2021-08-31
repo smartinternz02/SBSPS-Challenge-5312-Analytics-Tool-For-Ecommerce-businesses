@@ -3,7 +3,7 @@ Analytical Dashboard Link: https://us1.ca.analytics.ibm.com/bi/?perspective=dash
 
 Website Link: https://snehamohan2k.wixsite.com/technotitans
 
-Superstore Dataset: https://www.kaggle.com/juhi1994/superstore-analysis
+US Superstore Dataset: https://www.kaggle.com/juhi1994/superstore-analysis
 
 Vaccination Dataset: https://tinyurl.com/covidvaccinationdataset
 
